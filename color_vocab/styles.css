@@ -1,0 +1,19 @@
+img {
+  width: 200px;
+  height: 200px;
+}
+#red {
+  color: #de1121;
+}
+#blue {
+  color: rgb(5, 12, 112);
+}
+#orange {
+  color: hsl(360, 60, 40);
+}
+#green {
+  color: green;
+}
+#yellow {
+  color: rgb(255, 251, 0);
+}
